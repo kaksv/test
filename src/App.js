@@ -72,7 +72,7 @@ const App = () => {
           className="px-4 py-2 ml-2 rounded-lg bg-blue-500 text-white hover:bg-blue-600 focus:outline-none"
           onClick={sendMessage}
           disabled={isLoading}
-        >
+        > vvvv
           Send
         </button>
       </div>
